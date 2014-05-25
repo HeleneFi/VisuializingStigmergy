@@ -4,6 +4,7 @@ Visualization of Stigmergetic Project
 - Open architecture, asynchrone open research participation
 - People come and go and are never in phase.
 - Goal is real: Imagine, explore, learn, produce, build.
+- Feedback between face to face open space and online interactive repository
 - Multimedia content created can be forked, mixed, mashed, merged, reprocessed, curated, republished in multple forms
 - Structure is fluid.
 - Knowledge and `possibilities for action' are produced ongoingly that need to be kept track of and acted upon.
