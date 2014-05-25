@@ -1,7 +1,8 @@
 Visualization of Stigmergetic Project
 =====================================
 
-- Open architecture, asynchrone open research participation: people come and go and are never in phase.
+- Open architecture, asynchrone open research participation
+- People come and go and are never in phase.
 - Goal is real: Imagine, explore, learn, produce, build.
 - Multimedia content created can be forked, mixed, mashed, merged, reprocessed, curated, republished in multple forms
 - Structure is fluid.
