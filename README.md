@@ -10,4 +10,6 @@ Visualization of Stigmergetic Project
 - A game or 3D interactive possibility 'catalogue'? Visualizing Stigmergy in the making
 - In the end there are two products that must be built and evolve: the visualization of the project, and the project itself
 
-Various concepts of visualization [here](https://github.com/HeleneFi/Holoptic-Borderspace-Visualization)
+More on stigmergy [here](http://en.wikipedia.org/wiki/Stigmergy)
+
+Various conceptual inspirations of visualization [here](https://github.com/HeleneFi/Holoptic-Borderspace-Visualization): how parts of a whole can see the whole evolve and the relationships between parts in action, where gaps can be identified, needs fulfilled, possibilities explored and impacts vizualized.
