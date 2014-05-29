@@ -16,3 +16,5 @@ Visualization of Stigmergetic Project
 More on stigmergy [here](http://en.wikipedia.org/wiki/Stigmergy)
 
 Various conceptual inspirations of visualization [here](https://github.com/HeleneFi/Holoptic-Borderspace-Visualization): how parts of a whole can see the whole evolve and the relationships between parts in action, where gaps can be identified, needs fulfilled, possibilities explored and impacts vizualized.
+
+It's about 'seing evolution in the making' or seing what you are producing, at work, in its context. 
